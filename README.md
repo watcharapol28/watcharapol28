@@ -1,5 +1,4 @@
-<h3>Hello 👋</h3>
-<br>
+<h2>Hello 👋</h2>
 <h4>My name is Watcharapol Treesatthayasakul<br> Study at Computer Science KMUTT</h4>
 <li>
   <a href="https://www.facebook.com/watcharapol.treesatthayasakul.96"> Facebook </a>
