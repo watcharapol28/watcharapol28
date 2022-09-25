@@ -1,4 +1,4 @@
-<h2>Hello 👋</h2>
+<h1>👋</h1>
 <center>
   <img src="Image/Squrriel.png" width="200" height="220">
  </center>
