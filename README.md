@@ -12,3 +12,11 @@
     <a href="https://www.instagram.com/o.wt28_/"> Intragram </a>
   </li>
 </p>
+<p>Skills
+  <li><img src="Image/C++.png" width="40" height="40"></li>
+  <li><img src="Image/Python.png" width="40" height="40"></li>
+  <li><img src="Image/HTML5.png" width="40" height="40"></li>
+  <li><img src="Image/CSS3.png" width="40" height="40"></li>
+  <li><img src="Image/Java.png" width="40" height="40"></li>
+  <li><img src="Image/JavaScript.png" width="40" height="40"></li>
+</p>
