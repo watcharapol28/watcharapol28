@@ -1,7 +1,5 @@
 <!--<h1>👋</h1>!-->
-<center>
-  <img src="Image/Squrriel.png" width="200" height="220">
- </center>
+<img src="Image/Squrriel.png" width="200" height="220" align="center">
 <!--<h4>My name is Watcharapol Treesatthayasakul<br> Study at Computer Science KMUTT</h4>!-->
 <p>Social
   <li>
