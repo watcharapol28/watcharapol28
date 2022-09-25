@@ -1,7 +1,7 @@
 <style>
   img{
-    width: 200px;
-    height: 220px; 
+    max-width: 200px;
+    max-height: 220px; 
   }
 </style>
 
