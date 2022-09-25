@@ -1,3 +1,10 @@
+<style>
+  img{
+    width: 200px;
+    height: 220px; 
+  }
+</style>
+
 <h2>Hello 👋</h2>
 <center><img src="Image/Squrriel.png"></center>
 <h4>My name is Watcharapol Treesatthayasakul<br> Study at Computer Science KMUTT</h4>
