@@ -12,6 +12,7 @@
     <a href="https://www.instagram.com/o.wt28_/"> Intragram </a>
   </li>
 </p>
+<!--
 <p>Skills
   <li><img src="Image/C++.png" width="40" height="40">  C++</li>
   <li><img src="Image/Python.png" width="40" height="40">  Python</li>
@@ -20,3 +21,4 @@
   <li><img src="Image/Java.png" width="40" height="40">  Java</li>
   <li><img src="Image/JavaScript.png" width="40" height="40">  JavaScript</li>
 </p>
+!-->
