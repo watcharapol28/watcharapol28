@@ -20,5 +20,5 @@
   <li><img src="Image/CSS3.png" width="40" height="40">  CSS</li>
   <li><img src="Image/Java.png" width="40" height="40">  Java</li>
   <li><img src="Image/JavaScript.png" width="40" height="40">  JavaScript</li>
-</p>
+</p>xd
 !-->
