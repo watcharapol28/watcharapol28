@@ -1,10 +1,10 @@
 <!--<h1>👋</h1>!-->
-<!--
+
 <p>
   <img align="right" src="Image/Squrriel.png" width="200" height="220">
   <img align="right" src="Image/Squrriel0.png" width="200" height="220">
-</p>!-->
-<!--<h4>My name is Watcharapol Treesatthayasakul<br> Study at Computer Science KMUTT</h4>!--><!--
+</p>
+<!--<h4>My name is Watcharapol Treesatthayasakul<br> Study at Computer Science KMUTT</h4>!-->
 <p>Social
   <li>
     <a href="https://www.facebook.com/watcharapol.treesatthayasakul.96"> Facebook </a>
@@ -13,7 +13,7 @@
     <a href="https://www.instagram.com/o.wt28_/"> Intragram </a>
   </li>
 </p>
-!-->
+
 <!--
 <p>Skills
   <li><img src="Image/C++.png" width="40" height="40">  C++</li>
@@ -26,7 +26,6 @@
 !-->
 <h3 align="center">Computer science student at KMUTT.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/watcharapol.treesatthayasakul.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/watcharapol.treesatthayasakul.96" height="30" width="40" /></a>
 <a href="https://www.instagram.com/o.wt28_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/o.wt28_/" height="30" width="40" /></a>
