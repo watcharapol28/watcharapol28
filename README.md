@@ -1,5 +1,5 @@
 <!--<h1>👋</h1>!-->
-<h3 align="center">Computer science student at KMUTT.</h3>
+<h3 align="center">Applied Computer Science Student at KMUTT.</h3>
 
 
 <p>
