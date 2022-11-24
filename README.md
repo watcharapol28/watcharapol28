@@ -9,8 +9,8 @@
 <!--<h4>My name is Watcharapol Treesatthayasakul<br> Study at Computer Science KMUTT</h4>!-->
 <h3 align="left">Contact</h3>
 <p align="left">
-  <li href="https://www.facebook.com/watcharapol.treesatthayasakul.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/watcharapol.treesatthayasakul.96" height="30" width="40" /></li>
-  <li href="https://www.instagram.com/o.wt28_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/o.wt28_/" height="30" width="40" /></li>
+  <a href="https://www.facebook.com/watcharapol.treesatthayasakul.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/watcharapol.treesatthayasakul.96" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/o.wt28_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/o.wt28_/" height="30" width="40" /></a>
 </p>
 
 <!--
