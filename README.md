@@ -5,13 +5,9 @@
   <img align="right" src="Image/Squrriel0.png" width="200" height="220">
 </p>
 <!--<h4>My name is Watcharapol Treesatthayasakul<br> Study at Computer Science KMUTT</h4>!-->
-<p>Social
-  <li>
-    <a href="https://www.facebook.com/watcharapol.treesatthayasakul.96"> Facebook </a>
-  </li>
-  <li>
-    <a href="https://www.instagram.com/o.wt28_/"> Intragram </a>
-  </li>
+<p align="left">
+<li href="https://www.facebook.com/watcharapol.treesatthayasakul.96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/watcharapol.treesatthayasakul.96" height="30" width="40" /></li>
+<li href="https://www.instagram.com/o.wt28_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/o.wt28_/" height="30" width="40" /></li>
 </p>
 
 <!--
